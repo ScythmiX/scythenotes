@@ -1,0 +1,14 @@
+{
+  "name": "particle-effects-notes-app",
+  "version": "1.0.0",
+  "description": "**Skill Showcase Project** — This project is a portfolio piece, not meant for production.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ScythmiX <scythepoketech@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
