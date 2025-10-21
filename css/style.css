@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 :root {
-	--brand-color: #202020;
+	--brand-color: #101010;
 	--base-color: #e0e0e0;
 	--surface-color: white;
-	--text-color: #202020;
+	--text-color: #101010;
 	--secondary-text-color: #606060;
-	--brand-color-shadow: #20202080;
+	--brand-color-shadow: #10101080;
 }
 
 body.dark-theme {
 	--brand-color: white;
 	--base-color: black;
-	--surface-color: #202020;
+	--surface-color: #101010;
 	--text-color: white;
-	--secondary-text-color: #c0c0c0;
+	--secondary-text-color: #909090;
 	--brand-color-shadow: #ffffff80;
 }
 
