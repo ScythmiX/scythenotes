@@ -1,4 +1,4 @@
-# Particle Effects Notes App
+# ScytheNotes
 
 **Skill Showcase Project** — This project is a portfolio piece, not meant for production.
 
